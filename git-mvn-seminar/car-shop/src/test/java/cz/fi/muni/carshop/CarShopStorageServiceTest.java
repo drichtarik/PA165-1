@@ -9,6 +9,7 @@ import java.awt.Color;
 import java.util.List;
 import java.util.Map;
 
+import cz.fi.muni.carshop.CarShopStorage;
 import org.junit.Test;
 
 import org.junit.rules.ExpectedException;
